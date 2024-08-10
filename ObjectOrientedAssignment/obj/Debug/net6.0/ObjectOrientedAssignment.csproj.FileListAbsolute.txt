@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\obj\Debug\net6.0\ObjectOrientedAssignment.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\obj\Debug\net6.0\ObjectOrientedAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\obj\Debug\net6.0\ObjectOrientedAssignment.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\obj\Debug\net6.0\ObjectOrientedAssignment.AssemblyInfo.cs
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\obj\Debug\net6.0\ObjectOrientedAssignment.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\bin\Debug\net6.0\ObjectOrientedAssignment.exe
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\bin\Debug\net6.0\ObjectOrientedAssignment.deps.json
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\bin\Debug\net6.0\ObjectOrientedAssignment.runtimeconfig.json
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\bin\Debug\net6.0\ObjectOrientedAssignment.dll
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\bin\Debug\net6.0\ObjectOrientedAssignment.pdb
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\obj\Debug\net6.0\ObjectOrientedAssignment.dll
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\obj\Debug\net6.0\refint\ObjectOrientedAssignment.dll
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\obj\Debug\net6.0\ObjectOrientedAssignment.pdb
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\obj\Debug\net6.0\ObjectOrientedAssignment.genruntimeconfig.cache
+C:\Users\user1\Desktop\שנה ב\verisoft\ObjectOrientedAssignment\ObjectOrientedAssignment\obj\Debug\net6.0\ref\ObjectOrientedAssignment.dll
