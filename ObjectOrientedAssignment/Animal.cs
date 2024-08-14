@@ -6,16 +6,22 @@ using System.Threading.Tasks;
 
 namespace ObjectOrientedAssignment
 {
-    
-
     internal abstract class Animal
     {
         protected bool mammals;
+        public bool Mammals
+        {
+            get { return mammals; }
+        }
         protected bool camivours;
+        public bool Camivours
+        {
+            get { return camivours; }
+        }
 
-        public const int mood_happy = 0;
+        public const int MOOD_HAPPY = 0;
 
-        public const int mood_scare = 1;
+        public const int MOOD_SCARE = 1;
         protected int mood;
         public Animal(bool mammals,bool camivours,int mood)
         {
@@ -28,11 +34,6 @@ namespace ObjectOrientedAssignment
 
         }
         public abstract void SayHello(int moodLevel);
-       
-
-
-
-        //public  void SayHello(int moodLevel);
         public bool IsMammals()=>mammals;
         public void SetMammals(bool value)
         {
@@ -43,6 +44,5 @@ namespace ObjectOrientedAssignment
         {
             camivours = value;
         }
-
     }
 }

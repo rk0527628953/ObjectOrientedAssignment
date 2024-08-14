@@ -12,20 +12,18 @@ namespace ObjectOrientedAssignment
         public Cat(int mood) : base(true,true,mood)
         {
              numberOfLegs = 4;
-
         }
         public override void SayHello()
         {
             Console.WriteLine("meow~");
         }
-
         public override void SayHello(int moodLevel)
         {
-            if (moodLevel == mood_happy)
+            if (moodLevel == MOOD_HAPPY)
             {
                 Console.WriteLine("purr, purr");
             }
-            else if (moodLevel == mood_scare)
+            else if (moodLevel == MOOD_SCARE)
             {
                 Console.WriteLine("hiss");
             }
@@ -42,12 +40,9 @@ namespace ObjectOrientedAssignment
         //    }
         //}
         public int GetNumberofLegs() => numberOfLegs;
-
         public override string ToString()
         {
             return mammals + " " + camivours + " " + mood + " " + numberOfLegs;
         }
-
-
     }
 }

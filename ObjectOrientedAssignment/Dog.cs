@@ -18,14 +18,13 @@ namespace ObjectOrientedAssignment
         {
             Console.WriteLine("wagging their tails");
         }
-
         public override void SayHello(int moodLevel)
         {
-            if (moodLevel == mood_happy)
+            if (moodLevel == MOOD_HAPPY)
             {
                 Console.WriteLine("bark loudly");
             }
-            else if (moodLevel == mood_scare)
+            else if (moodLevel == MOOD_SCARE)
             {
                 Console.WriteLine("whooping");
             }
@@ -47,7 +46,5 @@ namespace ObjectOrientedAssignment
         {
             return mammals + " " + camivours + " " + mood + " " + numberOfLegs;
         }
-
-
     }
 }

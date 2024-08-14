@@ -9,6 +9,5 @@ namespace ObjectOrientedAssignment
     internal interface ILand
     {
         public int GetNumberofLegs();
-       
     }
 }

@@ -14,19 +14,13 @@ namespace ObjectOrientedAssignment
         {
             numberOfLegs = 4;
         }
-
-        //public override void SayHello()
-        //{
-        //    Console.WriteLine("Cat greets people by meowing~");
-        //}
-        
         public override void SayHello(int moodLevel)
         {
-            if (moodLevel == mood_happy)
+            if (moodLevel == MOOD_HAPPY)
             {
                 Console.WriteLine("quack quack quack");
             }
-            else if (moodLevel == mood_scare)
+            else if (moodLevel == MOOD_SCARE)
             {
                 Console.WriteLine("plop into the water");
             }
@@ -45,7 +39,6 @@ namespace ObjectOrientedAssignment
         public bool HasGills() => false;
         public bool HasLaysEggs() => true;
         public int GetNumberOfLegs() => numberOfLegs;
-
         public override string ToString()
         {
             return mammals + " " + camivours + " " + mood + " " + numberOfLegs;
